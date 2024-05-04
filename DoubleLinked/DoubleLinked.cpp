@@ -168,7 +168,7 @@ void revtraverse()
 	}
 }
 
-void serachData()
+void searchData()
 {
 	if (listEmpty() == true)
 	{
